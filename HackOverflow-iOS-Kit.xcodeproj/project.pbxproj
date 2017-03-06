@@ -13,6 +13,7 @@
 		4449A91C1E6DED8E003A8187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4449A91B1E6DED8E003A8187 /* Assets.xcassets */; };
 		4449A91F1E6DED8E003A8187 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4449A91D1E6DED8E003A8187 /* LaunchScreen.storyboard */; };
 		4449A92A1E6DED8E003A8187 /* HackOverflow_iOS_KitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4449A9291E6DED8E003A8187 /* HackOverflow_iOS_KitTests.swift */; };
+		4449A9351E6DF13B003A8187 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4449A9341E6DF13B003A8187 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		4449A9251E6DED8E003A8187 /* HackOverflow-iOS-KitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HackOverflow-iOS-KitTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4449A9291E6DED8E003A8187 /* HackOverflow_iOS_KitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackOverflow_iOS_KitTests.swift; sourceTree = "<group>"; };
 		4449A92B1E6DED8E003A8187 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4449A9341E6DF13B003A8187 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		4449A9081E6DED8D003A8187 = {
 			isa = PBXGroup;
 			children = (
+				4449A9341E6DF13B003A8187 /* README.md */,
 				4449A9131E6DED8E003A8187 /* HackOverflow-iOS-Kit */,
 				4449A9281E6DED8E003A8187 /* HackOverflow-iOS-KitTests */,
 				4449A9121E6DED8E003A8187 /* Products */,
@@ -199,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4449A9351E6DF13B003A8187 /* README.md in Sources */,
 				4449A9171E6DED8E003A8187 /* ViewController.swift in Sources */,
 				4449A9151E6DED8E003A8187 /* AppDelegate.swift in Sources */,
 			);
